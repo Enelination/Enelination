@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Kubernetes and Cloud Security concepts/projects**
 
-- 🌱 I’m currently learning **Kubernetes and Docker**
+- 🌱 I’m currently learning **Kubernetes**
 
 - 👯 I’m looking to collaborate on **Anything Cloud & DevOps related**
 
