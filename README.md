@@ -23,7 +23,6 @@
 - ⚡ Fun fact **I play baseball,(i'm a catcher and a firstbaseman)**
 
 <h3 align="left">Connect with me:</h3>
-< align="left">
 <a href="https://www.linkedin.com/in/emmanuel-akuffo-583a21aa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="georgebaidoojr" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
